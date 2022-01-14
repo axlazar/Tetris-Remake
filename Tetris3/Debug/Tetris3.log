@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Aidan\Desktop\ICS_Semester_4\ics_214\labs\Tetris3\Tetris3\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TetrisGame.cpp
+C:\Users\Aidan\Desktop\ICS_Semester_4\ics_214\labs\Tetris3\Tetris3\TetrisGame.cpp(244,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aidan\Desktop\ICS_Semester_4\ics_214\labs\Tetris3\Tetris3\TetrisGame.cpp(244,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Tetris3.vcxproj -> C:\Users\Aidan\Desktop\ICS_Semester_4\ics_214\labs\Tetris3\Debug\Tetris3.exe
